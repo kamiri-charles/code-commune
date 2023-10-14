@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* Color palette */
+:root {
+  --ui-primary: #75B9BE;
+  --ui-primary-light: #A8CCC9;
+  --ui-secondary: #EC058E;
+  --ui-secondary-light: #F4A7C2;
+  --ui-white: #FFFBFC;
+  --ui-black: #010400;
+}
